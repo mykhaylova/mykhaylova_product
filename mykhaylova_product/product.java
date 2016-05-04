@@ -3,6 +3,7 @@ package mykhaylova_product;
 public class Product
 {
 	private String name;
+	private float price;
 	
 	public Product()
 	{
