@@ -5,5 +5,5 @@ import java.util.*;
 
 public class Company
 {
-	private ArrayList products;
+	private TreeSet products;
 }
