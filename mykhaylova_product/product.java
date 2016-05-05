@@ -4,6 +4,7 @@ public class Product
 {
 	private String name;
 	private boolean onStock;
+
 	
 	public Product()
 	{
